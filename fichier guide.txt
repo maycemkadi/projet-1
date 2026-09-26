@@ -1,0 +1,2 @@
+cntrl+c= copier
+lfehma
